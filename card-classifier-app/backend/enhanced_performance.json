@@ -1,0 +1,29 @@
+[
+  {
+    "batch": 1,
+    "train_accuracy": 1.0,
+    "cv_mean": 0.6,
+    "cv_std": 0.2,
+    "training_samples": 20,
+    "categories": 5,
+    "confidence_threshold": 0.8
+  },
+  {
+    "batch": 2,
+    "train_accuracy": 1.0,
+    "cv_mean": 0.625,
+    "cv_std": 0.19364916731037085,
+    "training_samples": 40,
+    "categories": 7,
+    "confidence_threshold": 0.8
+  },
+  {
+    "batch": 3,
+    "train_accuracy": 1.0,
+    "cv_mean": 0.6333333333333333,
+    "cv_std": 0.18708286933869708,
+    "training_samples": 60,
+    "categories": 7,
+    "confidence_threshold": 0.8
+  }
+]

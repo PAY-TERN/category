@@ -1,0 +1,9 @@
+# 모델 파일 무시
+card-classifier-app/backend/models/unified_model_batch_*.pkl
+
+# 단, 이 파일만 Git에 포함
+!card-classifier-app/backend/models/unified_model_latest.pkl
+
+# 임시 및 학습 데이터 폴더 무시
+card-classifier-app/backend/temp_files/
+card-classifier-app/backend/training_data/
